@@ -20,7 +20,7 @@ function Hero() {
     <>
     <div className={`${darkMode ? 'dark bg-black' : 'light bg-white'}`}>
         <section id='hero' className='w-[95%] h-[600px] m-auto bg-cover bg-center rounded-xl flex justify-center flex-col items-start lg:px-28 px-10 gap-7 z-20' style={{ backgroundImage: `url(${assets.hero1})`}}>
-            <h1 data-aos = "zoom-in" className='text-6xl text-white font-semibold lg:pr-[500px] pr-0 lg:leading-[70px] leading-[60px]'>Welcome to Hawailer Rentals Company</h1>
+            <h1 data-aos = "zoom-in" className='text-6xl text-gray-500 font-semibold lg:pr-[500px] pr-0 lg:leading-[70px] leading-[60px]'>Welcome to Hawailer Rentals Company</h1>
             <p data-aos = "zoom-in" className='text-white text-xl lg:pr-[500px] pr-0'>Our Hope is for you to pattner and work with us.</p>
 
         </section>

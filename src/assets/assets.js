@@ -16,7 +16,7 @@ import about1 from "../assets/images/about1.jpg"
 import area1 from "../assets/images/area1.jpg"
 import area2 from "../assets/images/area2.jpg"
 import area3 from "../assets/images/area3.jpg"
-import hero1 from "../assets/images/hero1.webp"
+import hero1 from "../assets/images/hero1.jpg"
 import logo from "../assets/images/logo.png";
 import { MdNoteAlt } from "react-icons/md";
 
@@ -54,11 +54,11 @@ export const assets = {
 export const property = [
   {
     images: prop1,
-    address: "6Downtown, Las Vegas",
+    address: "6Downtown,",
     name: "Villa with Amazing View",
     price: "$ 213.23",
     about:
-      "Beautiful, updated, ground level Co-op apartment in the desirable Bay Terrace neighborhood",
+      "Beautiful, updated, ground level Co-op apartment in the desirable Watamu Beaches neighborhood",
     bed: 4,
     bath: 3,
     area: "250 sq ft",
@@ -66,11 +66,11 @@ export const property = [
   },
   {
     images: prop2,
-    address: "Meadows Village, Las Vegas",
+    address: "Darling Village,",
     name: "Townhouse for Sale",
     price: "$ 345.18",
     about:
-      "Beautiful, updated, ground level Co-op apartment in the desirable Bay Terrace neighborhood",
+      "Beautiful, updated, ground level Co-op apartment in the desirable Watamu Beaches neighborhood",
     bed: 4,
     bath: 3,
     area: "450 sq ft",
@@ -82,7 +82,7 @@ export const property = [
     name: "Duplex sea facing for rent",
     price: "$ 652.18",
     about:
-      "Beautiful, updated, ground level Co-op apartment in the desirable Bay Terrace neighborhood",
+      "Beautiful, updated, ground level Co-op apartment in the desirable Watamu Beaches neighborhood",
     bed: 4,
     bath: 3,
     area: "129 sq ft",
@@ -94,7 +94,7 @@ export const property = [
     name: "Villa with Side View",
     price: "$ 876.13",
     about:
-      "Beautiful, updated, ground level Co-op apartment in the desirable Bay Terrace neighborhood",
+      "Beautiful, updated, ground level Co-op apartment in the desirable Watamu Beaches neighborhood",
     bed: 4,
     bath: 3,
     area: "453 sq ft",
@@ -106,7 +106,7 @@ export const property = [
     name: "Awesome villa for rent",
     price: "$ 341.83",
     about:
-      "Beautiful, updated, ground level Co-op apartment in the desirable Bay Terrace neighborhood",
+      "Beautiful, updated, ground level Co-op apartment in the desirable Watamu Beaches neighborhood",
     bed: 4,
     bath: 3,
     area: "320 sq ft",
@@ -118,7 +118,7 @@ export const property = [
     name: "Street Farm for sale",
     price: "$ 675.23",
     about:
-      "Beautiful, updated, ground level Co-op apartment in the desirable Bay Terrace neighborhood",
+      "Beautiful, updated, ground level Co-op apartment in the desirable Watamu Beaches neighborhood",
     bed: 4,
     bath: 3,
     area: "340 sq ft",
@@ -172,34 +172,34 @@ export const client = [
     name: "Ana Anderson",
     text: "Very good work",
     feedback:
-      "The WP Estate team did an outstanding job helping me buy my first home. The high level of service and dedication",
+      "The Hawailer Estate team did an outstanding job helping me buy my first home. The high level of service and dedication",
   },
   {
     image: client3,
     name: "Albert adame",
     text: "Very well",
     feedback:
-      "The WP Estate team did an outstanding job helping me buy my first home. The high level of service and dedication",
+      "The  Hawailer Estate team did an outstanding job helping me buy my first home. The high level of service and dedication",
   },
   {
     image: client4,
     name: "Dana Gilmore",
     text: "Excellent team!",
     feedback:
-      "The WP Estate team did an outstanding job helping me buy my first home. The high level of service and dedication",
+      "The Hawailer Estate team did an outstanding job helping me buy my first home. The high level of service and dedication",
   },
   {
     image: client5,
     name: "Alex gilmore",
     text: "Excellent team!",
     feedback:
-      "The WP Estate team did an outstanding job helping me buy my first home. The high level of service and dedication",
+      "The Hawailer Estate team did an outstanding job helping me buy my first home. The high level of service and dedication",
   },
   {
     image: client6,
     name: "Sivay Ashbi",
     text: "Excellent team!",
     feedback:
-      "The WP Estate team did an outstanding job helping me buy my first home. The high level of service and dedication",
+      "The Hawailer Estate team did an outstanding job helping me buy my first home. The high level of service and dedication",
   },
 ];

@@ -34,15 +34,15 @@ function PopularAreas() {
         </div>
         <div id='bottom' className='w-full grid lg:grid-cols-3 sm:grid-cols-3 grid-cols-1 lg:justify-center justify-start items-start gap-6  '>
           <div data-aos = "slide-up" data-aos-delay = "200" className='flex justify-center lg:items-center sm:items-center gap-2 w-full '>
-            <h1 className='text-black text-7xl font-semibold dark-text-white'>5K</h1>
+            <h1 className='text-black text-7xl font-semibold dark-text-white'>5+</h1>
             <h1 className='text-gray-500 dark:text-white'>ACTIVE <br /> LISTINGS</h1>
           </div>
           <div data-aos = "slide-up" data-aos-delay = "200" className='flex justify-center lg:items-center sm:items-center gap-2 w-full '>
-            <h1 className='text-black text-7xl font-semibold dark-text-white'>10K</h1>
+            <h1 className='text-black text-7xl font-semibold dark-text-white'>10+</h1>
             <h1 className='text-gray-500 dark:text-white'>SALES <br /> LISTINGS</h1>
           </div>
           <div data-aos = "slide-up" data-aos-delay = "200" className='flex justify-center lg:items-center sm:items-center gap-2 w-full '>
-            <h1 className='text-black text-7xl font-semibold dark-text-white'>50K</h1>
+            <h1 className='text-black text-7xl font-semibold dark-text-white'>50+</h1>
             <h1 className='text-gray-500 dark:text-white'>HOUSE <br /> RENTALS</h1>
           </div>
         </div>
